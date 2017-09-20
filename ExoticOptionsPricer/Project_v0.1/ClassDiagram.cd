@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProcessMc">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAACAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>NewProcessMC.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProcessEuro">
+    <Position X="3.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAEAAgAAAAAAEAAQAAAAAAAgIAAAAAgBAAACAAA=</HashCode>
+      <FileName>NewProcessMC.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProcessAs">
+    <Position X="6" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAEAAQABAAAAAhIAAAAAgBAAACAAA=</HashCode>
+      <FileName>NewProcessMC.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProcessBarrier">
+    <Position X="8.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAEAAAAIEAIQAAAAAAAhIAAAAggBAAQCAAA=</HashCode>
+      <FileName>NewProcessMC.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProcessBasket">
+    <Position X="1.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAGAAAAAAAgAEAAQIAAAAAAAIAAAAAABAAACAAA=</HashCode>
+      <FileName>NewProcessMC.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PayOff">
+    <Position X="7.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAQAAAAAEAAAAA=</HashCode>
+      <FileName>PayOff.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PayOffCall">
+    <Position X="6.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAACgAAQAAAAAAAAAAA=</HashCode>
+      <FileName>PayOff.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PayOffPut">
+    <Position X="9.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAEAAAAAAAAAAKAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PayOff.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Process">
+    <Position X="1.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAABAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Process.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProcessGB">
+    <Position X="0.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAQAAAAAACAAAAA=</HashCode>
+      <FileName>Process.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProcessBach">
+    <Position X="3" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAACQAAAA=</HashCode>
+      <FileName>Process.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
